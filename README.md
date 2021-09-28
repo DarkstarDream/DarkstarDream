@@ -1,4 +1,5 @@
 ### **😉 I Am**
+<img align='right' src='Images/avatar.png' width=200> <br>
 🐱‍💻 A Data Scientist <br>
 ⚙️ An AI Enthusisast  <br>
 ✍🏻 A Blogger <br>
@@ -6,9 +7,11 @@
 <img src='https://bit.ly/2YaDLiS' width='20px'> An Astrophile <br>
 😆 And probably a good person
 
+<br> <br>
+
 ## **🤹🏻 Skills And Tools**
 <!-- Languages -->
-<br><img align='left' src='https://bit.ly/3EYyjjH' width=30> 
+<img align='left' src='https://bit.ly/3EYyjjH' width=30> 
 <img align='left' src='https://bit.ly/3ogq5xA' width=35>
 <img align='left' src='https://bit.ly/39IfT8q' width=70 height=40> <br>
 
@@ -26,9 +29,11 @@
 <img align='left' src='https://bit.ly/3F9aki6' width=25>
 <img align='left' src='https://bit.ly/3kL8snh' width=25>
 <img align='left' src='https://bit.ly/3ASwO4f' width=27>
-<img align='left' src='https://bit.ly/3AK11Cu' width=27><br>
+<img align='left' src='https://bit.ly/3AK11Cu' width=27><br> <br>
 
-<br>⚙️Machine Learning 🤖Deep Learning 🎙️ NLP 📷 CNN <br>
+### ⚙️Machine Learning 🤖Deep Learning 🎙️ NLP 📷 CNN <br>
+
+<br>
 
 ## **📱 Connect With Me**:
 <br>
