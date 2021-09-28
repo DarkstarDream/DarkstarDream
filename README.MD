@@ -44,6 +44,11 @@
 ### **📕 Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [4 Easy Ways to beat python fizzbuzz Challenge in Interview](https://buggyprogrammer.com/python-fizzbuzz/?utm_source=rss&utm_medium=rss&utm_campaign=python-fizzbuzz)
+- [what are iterators generators and decorators in python?](https://buggyprogrammer.com/iterators-generators-and-decorators-in-python/?utm_source=rss&utm_medium=rss&utm_campaign=iterators-generators-and-decorators-in-python)
+- [Google’s Next Generation Of AI Chips Will Be Built Using AI](https://buggyprogrammer.com/googles-next-generation-of-ai-chips-will-be-built-using-ai/?utm_source=rss&utm_medium=rss&utm_campaign=googles-next-generation-of-ai-chips-will-be-built-using-ai)
+- [What are the main Difference between K Means and KNN?](https://buggyprogrammer.com/difference-between-k-means-and-knn/?utm_source=rss&utm_medium=rss&utm_campaign=difference-between-k-means-and-knn)
+- [How to create Hangman Game in Python -beginners guide](https://buggyprogrammer.com/create-hangman-game-in-python/?utm_source=rss&utm_medium=rss&utm_campaign=create-hangman-game-in-python)
 <!-- BLOG-POST-LIST:END -->
 
 
