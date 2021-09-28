@@ -8,10 +8,11 @@ jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
+    readme_path: '../../README.md'
     steps:
       - name: Checkout
         uses: actions/checkout@v2
-      - name: Pull in dev.to posts
+      - name: Pull in buggyprogrammer.to posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://buggyprogrammer.com/blog/feed/, https://buggyprogrammer.com/projects/feed/"

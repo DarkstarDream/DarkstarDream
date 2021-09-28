@@ -44,7 +44,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-### nothing
+
 <!-- Defination -->
 [facebook]: https://www.facebook.com/buggyprogrammers/
 [insta]: https://www.instagram.com/buggyprogrammers/
