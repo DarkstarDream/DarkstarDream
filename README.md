@@ -6,7 +6,7 @@
 <img src='https://bit.ly/2YaDLiS' width='20px'> An Astrophile <br>
 😆 And probably a good person
 
-### **🤹🏻 Skills And Tools**
+## **🤹🏻 Skills And Tools**
 <!-- Languages -->
 <br><img align='left' src='https://bit.ly/3EYyjjH' width=30> 
 <img align='left' src='https://bit.ly/3ogq5xA' width=35>
@@ -30,18 +30,18 @@
 
 <br>⚙️Machine Learning 🤖Deep Learning 🎙️ NLP 📷 CNN <br>
 
-### **📱 Connect With Me**:
+## **📱 Connect With Me**:
 <br>
 
 [<img align='left' alt='facebook' src="images\facebook.png" width=30>][facebook]
-[<img align='left' alt='instagram' src="images\instagram (2).png" width=30>][insta]
-[<img align='left' alt='linkedin' src="images\linkedin (1).png" width=30>][linkedin]
-[<img align='left' alt='twitter' src="images\twitter (1).png" width=30>][twitter]
+[<img align='left' alt='instagram' src="images\instagram.png" width=30>][insta]
+[<img align='left' alt='linkedin' src="images\linkedin.png" width=30>][linkedin]
+[<img align='left' alt='twitter' src="images\twitter.png" width=30>][twitter]
 [<img align='left' alt='pinterest' src="images\pinterest.png" width=30>][pinterest]
 [<img align='left' alt='website' src="images\web-link.png" width=30>][website] <br>
 <br>
 
-### **📕 Latest Blog Posts**
+## **📕 Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
 - [4 Easy Ways to beat python fizzbuzz Challenge in Interview](https://buggyprogrammer.com/python-fizzbuzz/?utm_source=rss&utm_medium=rss&utm_campaign=python-fizzbuzz)
