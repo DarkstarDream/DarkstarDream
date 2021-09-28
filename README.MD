@@ -1,4 +1,4 @@
-### **😉 Who Am I**
+### **😉 I Am**
 🐱‍💻 A Data Scientist <br>
 ⚙️ An AI Enthusisast  <br>
 ✍🏻 A Blogger <br>
@@ -31,6 +31,8 @@
 <br>⚙️Machine Learning 🤖Deep Learning 🎙️ NLP 📷 CNN <br>
 
 ### **📱 Connect With Me**:
+<br>
+
 [<img align='left' alt='facebook' src="images\facebook.png" width=30>][facebook]
 [<img align='left' alt='instagram' src="images\instagram (2).png" width=30>][insta]
 [<img align='left' alt='linkedin' src="images\linkedin (1).png" width=30>][linkedin]
@@ -52,3 +54,4 @@
 [pinterest]: https://in.pinterest.com/buggyprogrammer/
 [linkedin]: https://www.linkedin.com/in/aman-kumar404/
 [website]: https://www.buggyprogrammer.com/
+

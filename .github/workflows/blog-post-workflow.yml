@@ -14,5 +14,6 @@ jobs:
       - name: Pull in buggyprogrammer.to posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          readme_path: '../../README.md'
-          feed_list: "https://buggyprogrammer.com/blog/feed/, https://buggyprogrammer.com/projects/feed/"
+          feed_list: "https://buggyprogrammer.com/feed/"
+
+
