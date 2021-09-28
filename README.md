@@ -1,5 +1,5 @@
+<img align='right' src='images/avatar2.png' width=300> <br>
 ### **😉 I Am**
-<img align='right' src='Images/avatar.png' width=200> <br>
 🐱‍💻 A Data Scientist <br>
 ⚙️ An AI Enthusisast  <br>
 ✍🏻 A Blogger <br>
@@ -7,9 +7,8 @@
 <img src='https://bit.ly/2YaDLiS' width='20px'> An Astrophile <br>
 😆 And probably a good person
 
-<br> <br>
 
-## **🤹🏻 Skills And Tools**
+## **Skills And Tools**
 <!-- Languages -->
 <img align='left' src='https://bit.ly/3EYyjjH' width=30> 
 <img align='left' src='https://bit.ly/3ogq5xA' width=35>
@@ -29,22 +28,9 @@
 <img align='left' src='https://bit.ly/3F9aki6' width=25>
 <img align='left' src='https://bit.ly/3kL8snh' width=25>
 <img align='left' src='https://bit.ly/3ASwO4f' width=27>
-<img align='left' src='https://bit.ly/3AK11Cu' width=27><br> <br>
+<img align='left' src='https://bit.ly/3AK11Cu' width=27><br>
 
-### ⚙️Machine Learning 🤖Deep Learning 🎙️ NLP 📷 CNN <br>
-
-<br>
-
-## **📱 Connect With Me**:
-<br>
-
-[<img align='left' alt='facebook' src="images\facebook.png" width=30>][facebook]
-[<img align='left' alt='instagram' src="images\instagram.png" width=30>][insta]
-[<img align='left' alt='linkedin' src="images\linkedin.png" width=30>][linkedin]
-[<img align='left' alt='twitter' src="images\twitter.png" width=30>][twitter]
-[<img align='left' alt='pinterest' src="images\pinterest.png" width=30>][pinterest]
-[<img align='left' alt='website' src="images\web-link.png" width=30>][website] <br>
-<br>
+#### ⚙️Machine Learning 🤖Deep Learning 🎙️ NLP 📷 CNN <br>
 
 ## **📕 Latest Blog Posts**
 
@@ -56,6 +42,14 @@
 - [How to create Hangman Game in Python -beginners guide](https://buggyprogrammer.com/create-hangman-game-in-python/?utm_source=rss&utm_medium=rss&utm_campaign=create-hangman-game-in-python)
 <!-- BLOG-POST-LIST:END -->
 
+## **📱 Connect With Me**:
+[<img align='left' alt='facebook' src="images\facebook.png" width=30>][facebook]
+[<img align='left' alt='instagram' src="images\instagram.png" width=30>][insta]
+[<img align='left' alt='linkedin' src="images\linkedin.png" width=30>][linkedin]
+[<img align='left' alt='twitter' src="images\twitter.png" width=30>][twitter]
+[<img align='left' alt='pinterest' src="images\pinterest.png" width=30>][pinterest]
+[<img align='left' alt='website' src="images\web-link.png" width=30>][website] <br>
+<br>
 
 <!-- Defination -->
 [facebook]: https://www.facebook.com/buggyprogrammers/
