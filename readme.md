@@ -1,4 +1,4 @@
-### **Who Am I**
+### **😉 Who Am I**
 🐱‍💻 A Data Scientist <br>
 ⚙️ An AI Enthusisast  <br>
 ✍🏻 A Blogger <br>
@@ -6,9 +6,9 @@
 <img src='https://bit.ly/2YaDLiS' width='20px'> An Astrophile <br>
 😆 And probably a good person
 
-### **Skills And Tools**
+### **🤹🏻 Skills And Tools**
 <!-- Languages -->
-<img align='left' src='https://bit.ly/3EYyjjH' width=30> 
+<br><img align='left' src='https://bit.ly/3EYyjjH' width=30> 
 <img align='left' src='https://bit.ly/3ogq5xA' width=35>
 <img align='left' src='https://bit.ly/39IfT8q' width=70 height=40> <br>
 
@@ -30,7 +30,7 @@
 
 <br>⚙️Machine Learning 🤖Deep Learning 🎙️ NLP 📷 CNN <br>
 
-### **Connect With Me**:
+### **📱 Connect With Me**:
 [<img align='left' alt='facebook' src="images\facebook.png" width=30>][facebook]
 [<img align='left' alt='instagram' src="images\instagram (2).png" width=30>][insta]
 [<img align='left' alt='linkedin' src="images\linkedin (1).png" width=30>][linkedin]
@@ -39,8 +39,10 @@
 [<img align='left' alt='website' src="images\web-link.png" width=30>][website] <br>
 <br>
 
-### **Latest Blog Posts**
+### **📕 Latest Blog Posts**
 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ### nothing
 <!-- Defination -->
