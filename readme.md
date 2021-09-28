@@ -32,19 +32,18 @@
 <br>
 
 ### **Connect With Me**:
-[<img align='left' alt='facebook' src="images\facebook-circular-logo.png" width=30>][facebook]
-[<img align='left' alt='instagram' src="images\instagram.png" width=30>][insta]
-[<img align='left' alt='linkedin' src="images\linkedin.png" width=30>][linkedin]
-[<img align='left' alt='twitter' src="images\twitter.png" width=30>][twitter]
-[<img align='left' alt='pinterest' src="images\pinterest-social-logo.png" width=30>][pinterest]
-[<img align='left' alt='website' src="images\global.png" width=30>][website] <br>
+[<img align='left' alt='facebook' src="images\facebook.png" width=30>][facebook]
+[<img align='left' alt='instagram' src="images\instagram (2).png" width=30>][insta]
+[<img align='left' alt='linkedin' src="images\linkedin (1).png" width=30>][linkedin]
+[<img align='left' alt='twitter' src="images\twitter (1).png" width=30>][twitter]
+[<img align='left' alt='pinterest' src="images\pinterest.png" width=30>][pinterest]
+[<img align='left' alt='website' src="images\web-link.png" width=30>][website] <br>
 <br>
 
 ### **Latest Blog Posts**
 
 
-
-
+### nothing
 <!-- Defination -->
 [facebook]: https://www.facebook.com/buggyprogrammers/
 [insta]: https://www.instagram.com/buggyprogrammers/
