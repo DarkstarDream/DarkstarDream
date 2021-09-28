@@ -7,8 +7,6 @@
 😆 And probably a good person
 
 ### **Skills And Tools**
-⚙️Machine Learning 🤖Deep Learning 🎙️ NLP 📷 CNN <br>
-
 <!-- Languages -->
 <img align='left' src='https://bit.ly/3EYyjjH' width=30> 
 <img align='left' src='https://bit.ly/3ogq5xA' width=35>
@@ -29,7 +27,8 @@
 <img align='left' src='https://bit.ly/3kL8snh' width=25>
 <img align='left' src='https://bit.ly/3ASwO4f' width=27>
 <img align='left' src='https://bit.ly/3AK11Cu' width=27><br>
-<br>
+
+<br>⚙️Machine Learning 🤖Deep Learning 🎙️ NLP 📷 CNN <br>
 
 ### **Connect With Me**:
 [<img align='left' alt='facebook' src="images\facebook.png" width=30>][facebook]
