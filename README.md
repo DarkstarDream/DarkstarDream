@@ -1,14 +1,17 @@
-<img align='right' src='images/avatar2.png' width=300> <br>
-### **😉 I Am**
-🐱‍💻 A Data Scientist <br>
-⚙️ An AI Enthusisast  <br>
-✍🏻 A Blogger <br>
-📷 A Photographer <br>
+<img align='right' src='images/avatar2.png' width=350> <br>
+## Hello Dev, <img src='https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif' width=25> <br>
+This is **Darkstar**, welcome to my palace 😉 <br>
+
+**I Am A/An** <br>
+🐱‍💻 Data Scientist <br>
+⚙️ AI Enthusisast  <br>
+✍🏻 Blogger <br>
+📷 Photographer <br>
 <img src='https://bit.ly/2YaDLiS' width='20px'> An Astrophile <br>
-😆 And probably a good person
+😆 And probably a good personn
 
 
-## **Skills And Tools**
+## Skills And Tools
 <!-- Languages -->
 <img align='left' src='https://bit.ly/3EYyjjH' width=30> 
 <img align='left' src='https://bit.ly/3ogq5xA' width=35>
@@ -30,9 +33,9 @@
 <img align='left' src='https://bit.ly/3ASwO4f' width=27>
 <img align='left' src='https://bit.ly/3AK11Cu' width=27><br>
 
-#### ⚙️Machine Learning 🤖Deep Learning 🎙️ NLP 📷 CNN <br>
+#### ⚙️Machine Learning 🤖Deep Learning 🎙️ NLP 📷 CNN <br> <br>
 
-## **📕 Latest Blog Posts**
+## 📕 My Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [4 Easy Ways to beat python fizzbuzz Challenge in Interview](https://buggyprogrammer.com/python-fizzbuzz/?utm_source=rss&utm_medium=rss&utm_campaign=python-fizzbuzz)
@@ -42,7 +45,7 @@
 - [How to create Hangman Game in Python -beginners guide](https://buggyprogrammer.com/create-hangman-game-in-python/?utm_source=rss&utm_medium=rss&utm_campaign=create-hangman-game-in-python)
 <!-- BLOG-POST-LIST:END -->
 
-## **📱 Connect With Me**:
+## 📱 Connect With Me
 [<img align='left' alt='facebook' src="images\facebook.png" width=30>][facebook]
 [<img align='left' alt='instagram' src="images\instagram.png" width=30>][insta]
 [<img align='left' alt='linkedin' src="images\linkedin.png" width=30>][linkedin]
