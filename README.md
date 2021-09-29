@@ -45,7 +45,11 @@ This is **Darkstar**, welcome to my palace 😉 <br>
 - [How to create Hangman Game in Python -beginners guide](https://buggyprogrammer.com/create-hangman-game-in-python/?utm_source=rss&utm_medium=rss&utm_campaign=create-hangman-game-in-python)
 <!-- BLOG-POST-LIST:END -->
 
-## 📱 Connect With Me
+<img align='left' src='images/high-five.png' width='20px'>
+
+### &nbsp;&nbsp;Connect With Me 
+
+
 [<img align='left' alt='facebook' src="images\facebook.png" width=30>][facebook]
 [<img align='left' alt='instagram' src="images\instagram.png" width=30>][insta]
 [<img align='left' alt='linkedin' src="images\linkedin.png" width=30>][linkedin]
