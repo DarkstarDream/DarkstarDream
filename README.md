@@ -11,7 +11,7 @@ This is **Darkstar**, welcome to my palace 😉 <br>
 😆 And probably a good personn
 
 
-## Skills And Tools
+## ⚒️ Skills And Tools
 <!-- Languages -->
 <img align='left' src='https://bit.ly/3EYyjjH' width=30> 
 <img align='left' src='https://bit.ly/3ogq5xA' width=35>
@@ -45,9 +45,8 @@ This is **Darkstar**, welcome to my palace 😉 <br>
 - [How to create Hangman Game in Python -beginners guide](https://buggyprogrammer.com/create-hangman-game-in-python/?utm_source=rss&utm_medium=rss&utm_campaign=create-hangman-game-in-python)
 <!-- BLOG-POST-LIST:END -->
 
-<img align='left' src='images/high-five.png' width='20px'>
 
-### &nbsp;&nbsp;Connect With Me 
+### <img align='left' src='images/high-five.png' width=24>Connect With Me
 
 
 [<img align='left' alt='facebook' src="images\facebook.png" width=30>][facebook]
