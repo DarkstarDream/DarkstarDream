@@ -46,7 +46,7 @@ This is **Darkstar**, welcome to my palace 😉 <br>
 <!-- BLOG-POST-LIST:END -->
 
 
-### <img align='left' src='images/high-five.png' width=24>Connect With Me
+## <img align='left' src='images/high-five.png' width=24>Connect With Me
 
 
 [<img align='left' alt='facebook' src="images\facebook.png" width=30>][facebook]
