@@ -8,7 +8,7 @@ This is **Darkstar**, welcome to my palace 😉 <br>
 ✍🏻 Blogger <br>
 📷 Photographer <br>
 <img src='https://bit.ly/2YaDLiS' width='20px'> An Astrophile <br>
-😆 And probably a good personn
+😆 And probably a good person
 
 
 ## ⚒️ Skills And Tools
