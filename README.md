@@ -45,6 +45,12 @@ This is **Aman**, welcome to my palace 😉 <br>
 - [How to create Hangman Game in Python -beginners guide](https://buggyprogrammer.com/create-hangman-game-in-python/?utm_source=rss&utm_medium=rss&utm_campaign=create-hangman-game-in-python)
 <!-- BLOG-POST-LIST:END -->
 
+<!-- <p align="center">
+## Coding Stats
+<img src="https://github-readme-stats.vercel.app/api?username=buggyprogrammer&show_icons=true&hide_title=true"> 
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buggyprogrammer&layout=compact&langs_count=10" />
+ </p> -->
+
 
 ## <img align='left' src='images/high-five.png' width=24>Connect With Me
 
